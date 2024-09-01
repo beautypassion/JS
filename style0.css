@@ -4,7 +4,10 @@ body {
     overflow: hidden;
     background-color: #000;
     cursor: pointer;
+    color: blueviolet;
+    text-align: center;
 }
+
 
 #stars-container {
     position: absolute;
